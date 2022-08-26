@@ -1,4 +1,4 @@
-# car-price
+# Predicting Car Price
 Predicting the car sale price using ML models.
 
 Models Used SDGRegressor and RandomForestRegressor.
